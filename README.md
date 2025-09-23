@@ -28,7 +28,7 @@ The Piscine is a 4-week intensive program focusing on **C programming** and **sh
 
 ## 🛠️ Tools & Skills Learned
 - **Languages**: C, Shell
-- **Tools**: `gcc`, `Makefile`, `vim`, `git`
+- **Tools**: `cc`, `vim`, `git`
 - **Concepts**: Algorithms, memory management, debugging
 
 ---
